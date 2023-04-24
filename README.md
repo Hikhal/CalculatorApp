@@ -15,7 +15,3 @@ Responsive design
 Clone the repository or download the source code
 Open the index.html file in your web browser
 Use the calculator to perform basic arithmetic operations
-
-##Contributing
-
-Contributions to this project are welcome. Feel free to fork the repository and make pull requests.
